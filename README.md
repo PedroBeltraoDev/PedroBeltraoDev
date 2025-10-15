@@ -1,4 +1,4 @@
-## Opa, eu sou o Pedro!
+## Opa, eu sou o Pedro 👋
  
 <picture>
   <div> 
