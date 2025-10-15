@@ -8,7 +8,7 @@
 </div>
 
 ## Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongodb,postman,cs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongodb,postman,cs&theme=light)](https://github.com/PedroBeltraoDev)
 
 ## Contatos:
 <div>
