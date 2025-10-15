@@ -2,7 +2,6 @@
  
 <picture>
   <div> 
-  <a href="https://github.com/PedroBeltraoDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBeltraoDev&show_icons=true&theme=transparent">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBeltraoDev&layout=compact&theme=transparent">
 </div>
