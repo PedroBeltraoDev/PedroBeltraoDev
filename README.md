@@ -1,10 +1,10 @@
 ## Opa, eu sou o Pedro 👋
  
 <picture>
-  <div> 
+<!--<div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBeltraoDev&show_icons=true&theme=transparent">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBeltraoDev&layout=compact&theme=transparent">
-</div>
+</div> -->
 
 ## Ferramentas e Tecnologias
 ![My Skills](https://skillicons.dev/icons?i=java,flutter,spring,mongodb,postman,cs&theme=light)
