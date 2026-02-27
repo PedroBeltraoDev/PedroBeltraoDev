@@ -7,7 +7,7 @@
 </div> -->
 
 ## Ferramentas e Tecnologias
-![My Skills](https://skillicons.dev/icons?i=java,flutter,spring,mongodb,postman,cs&theme=light)
+![My Skills](https://skillicons.dev/icons?i=java,flutter,spring,mongodb,.NET,postman,cs&theme=light)
 
 ## Contatos:
 <div>
