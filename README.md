@@ -9,8 +9,9 @@
 ## Ferramentas e Tecnologias
 ![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,spring,vue,flutter,mongodb,postman&theme=light)
 
-## Contatos:
+## 🌐 contacts:
 <div>
+ <a href = "mailto:pedrobeltraodev@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/pedrobeltrao.dev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedro-beltr%C3%A3o123/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
