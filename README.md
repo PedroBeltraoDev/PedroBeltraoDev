@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBeltraoDev&layout=compact&theme=tokyonight&hide_border=true">
 </div> 
 
-## Languages and Focus
+## Technologies I'm proficient in
 [![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,spring,mysql,vue,maven,git,mongodb,postman,idea)](https://skillicons.dev)
 
 ## 🌐 contacts:
