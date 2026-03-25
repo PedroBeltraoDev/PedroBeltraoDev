@@ -1,13 +1,15 @@
-## Opa, eu sou o Pedro 👋
+## 👋 Hi, I'm Pedro!
+
+```Software Engineer Student | Back End | Front End```
  
 <picture>
-<!--<div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBeltraoDev&show_icons=true&theme=transparent">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBeltraoDev&layout=compact&theme=transparent">
-</div> -->
+<div> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBeltraoDev&show_icons=true&theme=tokyonight&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBeltraoDev&layout=compact&theme=tokyonight&hide_border=true">
+</div> 
 
-## Ferramentas e Tecnologias
-![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,spring,vue,flutter,mongodb,postman&theme=light)
+## Languages and Focus
+[![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,spring,mysql,vue,maven,git,mongodb,postman,idea)](https://skillicons.dev)
 
 ## 🌐 contacts:
 <div>
