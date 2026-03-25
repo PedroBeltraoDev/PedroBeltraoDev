@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Pedro!
+## Hi, I'm Pedro!
 
 ```Software Engineer Student | Back End | Front End```
  
