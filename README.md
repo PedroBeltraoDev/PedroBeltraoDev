@@ -9,7 +9,7 @@
 </div> -->
 
 ## Technologies I'm proficient in
-[![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,spring,mysql,vue,maven,git,mongodb,postman,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,spring,vue,maven,git,mongodb,postman,idea)](https://skillicons.dev)
 
 ## Contacts:
 <div>
