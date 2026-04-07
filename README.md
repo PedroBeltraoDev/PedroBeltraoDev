@@ -1,6 +1,6 @@
 ## Hi, I'm Pedro!
 
-```Software Engineer Student | Back End | Front End```
+```Computer science student | Back End | Front End```
  <!--
 <picture>
 <div> 
