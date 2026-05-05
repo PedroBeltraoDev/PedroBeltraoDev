@@ -39,16 +39,39 @@ Sou estudante de Ciência da Computação e desenvolvedor em início de carreira
 ---
 
 #   Certificações
-<a href="(link do comprovante)" target="_blank">
-  <img src="https://assets.dio.me/tk4C24QY6y3Vc9D8lYJYKG0YVaNxtwDQI422OnEhcCE/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvMDcyYjJkNGMtNWUwNi00YzEzLTgxMmItYjgwMjk5ZmNlNzgzLnBuZw" height="105"/>
+<a href="(https://www.dio.me/certificate/ANX5M0SK/share)" target="_blank">
+  <img src="https://assets.dio.me/tb_wKiiyeWLBDREzDlR8h2ehrnPQMIWC3fPyAg9fhcc/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci85SDdTTE9MVy5qcGc" width="237"/>
 </a>
-<a href="(link do comprovante)" target="_blank">
-  <img src="https://assets.dio.me/bYKfbyZItbrv5l8MP3EJf5fzq-Bb3Xacl_jLAQ29rEo/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTljNWY0MGYtOWJmOC00NDBjLTk3ZTQtZTM1NmE1ZTBmOTNmLnBuZw" height="105"/>
+<a href="(https://www.dio.me/certificate/UX3ZOJRV/share)" target="_blank">
+  <img src="https://assets.dio.me/zYc1TuD6HyVjEG8QQqKhrYzzTI2YOAJNC5bn9Ih4lXA/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9VWDNaT0pSVi5qcGc" width="237"/>
 </a>
-<a href="(link do comprovante)" target="_blank">
-  <img src="https://assets.dio.me/31Tic7SURWbaWL-qVZdJPM2QSpyzugWCX-Z1_-jUSR8/f:webp/h:120/q:80/L3RyYWNrcy85NjMxODk4ZS1hODNjLTRjMDQtYWVmZC1hNzgyZWFkMmRiOGYucG5n" height="105"/>
+<a href="(https://www.dio.me/certificate/TLJIP2ZJ/share)" target="_blank">
+  <img src="https://assets.dio.me/09zVZSR6ltU-7AafedyscsG5y0dUyzBzv6cY047MFD0/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9UTEpJUDJaSi5qcGc" width="237"/>
 </a>
-
+<a href="(https://www.dio.me/certificate/TWCBKOEL/share)" target="_blank">
+  <img src="https://assets.dio.me/ndDqJtxCwV_-YAi21sWnj-P5ytVwge2jlTAOvtfgsEU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9UV0NCS09FTC5qcGc" width="237"/>
+</a>
+<a href="(https://www.dio.me/certificate/9H7SLOLW/share)" target="_blank">
+  <img src="https://assets.dio.me/tb_wKiiyeWLBDREzDlR8h2ehrnPQMIWC3fPyAg9fhcc/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci85SDdTTE9MVy5qcGc" width="237"/>
+</a>
+<a href="(https://www.dio.me/certificate/HJFZBZBX/share)" target="_blank">
+  <img src="https://assets.dio.me/jetyiQUp6_yNDhMKpNVmL0ntEpYc_O7w372nKy0i9pU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9ISkZaQlpCWC5qcGc" width="237"/>
+</a>
+<a href="(https://www.dio.me/certificate/P7GHINO2/share)" target="_blank">
+  <img src="https://assets.dio.me/emAVh9HVpIXW89qf6L6fHGxkHVz0p1coGoV0qQjtLgI/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9QN0dISU5PMi5qcGc" width="237"/>
+</a>
+<a href="(https://www.dio.me/certificate/ER3XY6FF/share)" target="_blank">
+  <img src="https://assets.dio.me/-d4C5HPEO0IfDcGjDDW2TATHdJ_WNJKR-SiYZsD7oYg/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9FUjNYWTZGRi5qcGc" width="237"/>
+</a>
+<a href="(https://www.dio.me/certificate/HQPKJMAP/share)" target="_blank">
+  <img src="https://assets.dio.me/INv6BUrLz2bfUG_1CG3-FDa54emyuuhSPGuSQq0mUdI/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9IUVBLSk1BQi5qcGc" width="237"/>
+</a>
+<a href="(https://www.udemy.com/certificate/UC-bf5b4b14-b4db-481b-af69-83afadcdda61/)" target="_blank">
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-bf5b4b14-b4db-481b-af69-83afadcdda61.jpg?v=1762375439000" width="237"/>
+</a>
+<a href="(https://app.rocketseat.com.br/certificates/0a854625-367e-4c56-b32c-e3a292bcbcdb)" target="_blank">
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-bf5b4b14-b4db-481b-af69-83afadcdda61.jpg?v=1762375439000" width="237"/>
+</a>
 
 </div>
 </td>
