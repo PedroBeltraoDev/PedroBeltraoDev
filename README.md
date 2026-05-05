@@ -40,6 +40,9 @@ Sou estudante de Ciência da Computação e desenvolvedor em início de carreira
 
 # Certificações
 
+<a href="https://www.udemy.com/certificate/UC-bf5b4b14-b4db-481b-af69-83afadcdda61/" target="_blank">
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-bf5b4b14-b4db-481b-af69-83afadcdda61.jpg?v=1762375439000" width="190"/>
+</a>
 <a href="https://www.dio.me/certificate/ANX5M0SK/share" target="_blank">
   <img src="https://assets.dio.me/tb_wKiiyeWLBDREzDlR8h2ehrnPQMIWC3fPyAg9fhcc/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci85SDdTTE9MVy5qcGc" width="190"/>
 </a>
@@ -66,9 +69,6 @@ Sou estudante de Ciência da Computação e desenvolvedor em início de carreira
 </a>
 <a href="https://www.dio.me/certificate/HQPKJMAP/share" target="_blank">
   <img src="https://assets.dio.me/INv6BUrLz2bfUG_1CG3-FDa54emyuuhSPGuSQq0mUdI/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9IUVBLSk1BQi5qcGc" width="190"/>
-</a>
-<a href="https://www.udemy.com/certificate/UC-bf5b4b14-b4db-481b-af69-83afadcdda61/" target="_blank">
-  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-bf5b4b14-b4db-481b-af69-83afadcdda61.jpg?v=1762375439000" width="190"/>
 </a>
 
 
