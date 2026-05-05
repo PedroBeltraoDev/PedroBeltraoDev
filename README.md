@@ -23,9 +23,7 @@ Sou estudante de Ciência da Computação e desenvolvedor em início de carreira
 #   Conecte-se comigo
 
 <div>
- <a href = "mailto:pedrobeltraodev@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/pedrobeltrao.dev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pedro-beltr%C3%A3o123/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:pedrobeltraodev@gmail.com"><img src="https://img.shields.io/badge/-Email-white?style=for-the-badge&logo=gmail&logoColor=black"></a><a href="https://leetcode.com/u/PedroBeltraoDev/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a><a href="https://www.instagram.com/pedrobeltrao.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://www.linkedin.com/in/pedro-beltr%C3%A3o123/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://github.com/PedroBeltraoDev" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000007?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 </td>
