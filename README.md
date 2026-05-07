@@ -27,7 +27,7 @@ Sou estudante de Ciência da Computação e desenvolvedor em início de carreira
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,spring,vue,maven,git,mongodb,postman,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,spring,vue,maven,git,mongodb,postman,idea,react)](https://skillicons.dev)
 
 </div>
 
