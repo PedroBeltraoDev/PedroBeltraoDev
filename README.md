@@ -35,7 +35,7 @@ Sou estudante de Ciência da Computação e desenvolvedor em início de carreira
 
 <div align="center">
 
-# Certificações
+# Portfólio
 
 <a href="https://pedrobeltraodev.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Ir%20ao%20Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000">
