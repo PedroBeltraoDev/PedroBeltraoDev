@@ -1,19 +1,19 @@
-<h1 align="center">Olá! Eu sou o Pedro!</h1>
+<h1 align="center">Hello! I'm Pedro!</h1>
 
 ###
 
 <div align="center">
-<table>
+<table> 
 <tr>
 
 <td width="50%" valign="top">
 
-# Sobre mim
+# About Me
 
-Sou estudante de Ciência da Computação e desenvolvedor em início de carreira, com experiência prática adquirida por meio de projetos acadêmicos, projetos de extensão e atuação atual em projeto freelancer. Tenho grande interesse em desenvolvimento de software, especialmente na construção de soluções bem estruturadas, eficientes e escaláveis, aplicando boas práticas de programação.
+I am a Computer Science student and an early-career developer, with practical experience gained through academic projects, extension projects, and my current freelance work. I have a strong interest in software development, especially in building well-structured, efficient, and scalable solutions while applying good programming practices.
 
-- 🎓 Graduando em Ciência da Computação (7/8)
-- 💻 Projetos acadêmicos, práticos e freelancer
+- 🎓 Computer Science Undergraduate (7/8)
+- 💻 Academic, practical, and freelance projects
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=PedroBeltraoDev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
@@ -23,7 +23,7 @@ Sou estudante de Ciência da Computação e desenvolvedor em início de carreira
 
 <td width="50%" valign="top">
 
-# Technologies I'm proficient in
+# Technologies I'm Proficient In
 
 <div align="center">
 
@@ -35,17 +35,17 @@ Sou estudante de Ciência da Computação e desenvolvedor em início de carreira
 
 <div align="center">
 
-# Portfólio
+# Portfolio
 
 <a href="https://pedrobeltraodev.vercel.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Ir%20ao%20Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000">
 </a>
 
 </div>
 
 ---
 
-# Conecte-se comigo
+# Connect with Me
 
 <div align="center">
 
