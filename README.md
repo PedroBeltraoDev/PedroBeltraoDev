@@ -37,7 +37,7 @@ I am a Computer Science student and an early-career developer, with practical ex
 
 # Portfolio
 
-<a href="https://pedrobeltraodev.vercel.app/" target="_blank" rel="noopener noreferrer">
+<a href="https://pedrobeltrao-dev.vercel.app" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000">
 </a>
 
