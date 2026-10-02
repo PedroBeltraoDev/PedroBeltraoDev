@@ -12,7 +12,7 @@
 
 I am a Computer Science student and an early-career developer, with practical experience gained through academic projects, extension projects, and my current freelance work. I have a strong interest in software development, especially in building well-structured, efficient, and scalable solutions while applying good programming practices.
 
-- 🎓 Computer Science Undergraduate (7/8) -
+- 🎓 Computer Science Undergraduate (8/8) -
 - 💻 Academic, practical, and freelance projects -
 
 <div align="center">
