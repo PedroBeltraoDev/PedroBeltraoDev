@@ -1,78 +1,70 @@
-<h1 align="center">Hello! I'm Pedro!</h1>
+<h1 align="center">Hi, I'm Pedro Beltrão 👋</h1>
 
-###
+<p align="center">
+  <b>Full Stack Developer</b> · React · TypeScript · Python · Java · .NET<br>
+  Sorocaba, Brazil · open to on-site, hybrid and remote roles
+</p>
 
-<div align="center">
-<table> 
-<tr>
-
-<td width="50%" valign="top">
-
-# About Me
-
-I am a Computer Science student and an early-career developer, with practical experience gained through academic projects, extension projects, and my current freelance work. I have a strong interest in software development, especially in building well-structured, efficient, and scalable solutions while applying good programming practices.
-
-- 🎓 Computer Science Undergraduate (8/8) -
-- 💻 Academic, practical, and freelance projects -
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PedroBeltraoDev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-# Technologies I'm Proficient In
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,spring,vue,maven,git,mongodb,postman,idea,react)](https://skillicons.dev)
-
-</div>
+<p align="center">
+  <a href="https://pedrobeltrao-dev.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://pedrobeltrao-dev.vercel.app/cv/Pedro-Beltrao-Full-Stack-EN.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-c6f04f?style=for-the-badge&logo=readdotcv&logoColor=black" alt="Resume"></a>
+  <a href="https://www.linkedin.com/in/pedro-beltrao123" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:pedrobeltraodev@gmail.com"><img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
+</p>
 
 ---
 
-<div align="center">
+### About me
 
-# Portfolio
+I build production software end to end, from the API to the interface, and I test it like a QA, because that is also part of my job.
 
-<a href="https://pedrobeltrao-dev.vercel.app" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000">
-</a>
+- 💼 **Full Stack Developer at DLM**: I build features for two SaaS products. **A Palavra** is a Bible study app with an AI chat assistant (OpenAI) and 300+ downloads on Google Play. **Futebol Total** is a multiplayer football management game running serverless on AWS.
+- 🧪 **QA Analyst at 4uCode**: I review pull requests, run automated test suites and do smoke, regression and E2E testing on a multi-tenant SaaS CRM built with React and .NET 10.
+- 🎓 **Computer Science** at Uninassau, graduating in December 2026.
+- 🤖 I like AI applied to real products: prompt design, structured outputs and safe fallbacks when the model fails.
 
-</div>
+### Featured projects
 
----
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**PlusEduc**](https://github.com/PedroBeltraoDev/PlusEduc-MonoRepo) | School management platform that generates activities with Google Gemini. My undergraduate thesis, built solo, with 68 pytest tests. | FastAPI · MongoDB · React · TypeScript · Gemini |
+| [**NoteesApp**](https://github.com/PedroBeltraoDev/NoteesApp-BE) | Notes API in .NET 10 with a layered architecture, EF Core, PostgreSQL, xUnit + Moq and Docker. Frontend in [Vue 3](https://github.com/PedroBeltraoDev/NoteesApp-UI) ([live demo](https://notees-app-ui.vercel.app)). | C# · ASP.NET Core · EF Core · PostgreSQL · Vue |
+| **GestV** | Inventory and sales management system for a furniture store, built for a real client. Private repository. | Next.js · React · PostgreSQL · Drizzle · Vitest |
+| [**desafio-itau-backend**](https://github.com/PedroBeltraoDev/desafio-itau-backend) | Itaú junior backend challenge: a REST API for transactions and real-time statistics. | Java · Spring Boot |
 
-# Connect with Me
+### Tech stack
 
-<div align="center">
+<p>
+  <b>Languages</b><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cs" alt="Languages">
+</p>
 
-<a href="mailto:pedrobeltraodev@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-white?style=for-the-badge&logo=gmail&logoColor=black">
-</a>
+<p>
+  <b>Frontend and mobile</b><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,flutter" alt="Frontend and mobile">
+</p>
 
-<a href="https://leetcode.com/u/PedroBeltraoDev/" target="_blank">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-</a>
+<p>
+  <b>Backend and databases</b><br>
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,fastapi,postgres,mongodb,dynamodb" alt="Backend and databases">
+</p>
 
-<a href="https://www.instagram.com/pedrobeltrao.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<p>
+  <b>Cloud, DevOps and tools</b><br>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,git,postman,vitest" alt="Cloud, DevOps and tools">
+</p>
 
-<a href="https://www.linkedin.com/in/pedro-beltr%C3%A3o123/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+### GitHub activity
 
-<a href="https://github.com/PedroBeltraoDev" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-000007?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PedroBeltraoDev&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=8" height="180" alt="GitHub streak">
+</p>
 
-</div>
+### Let's connect
 
-</td>
-
-</tr>
-</table>
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/pedro-beltrao123" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/PedroBeltraoDev/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://www.instagram.com/pedrobeltrao.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:pedrobeltraodev@gmail.com"><img src="https://img.shields.io/badge/pedrobeltraodev@gmail.com-white?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"></a>
+</p>
