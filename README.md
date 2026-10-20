@@ -51,7 +51,7 @@ I build production software end to end, from the API to the interface, and I tes
 
 <p>
   <b>Cloud, DevOps and tools</b><br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,git,postman,vitest" alt="Cloud, DevOps and tools">
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,git,postman" alt="Cloud, DevOps and tools">
 </p>
 
 ### GitHub activity
