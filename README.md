@@ -64,7 +64,6 @@ I build production software end to end, from the API to the interface, and I tes
 
 <p>
   <a href="https://www.linkedin.com/in/pedro-beltrao123" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/u/PedroBeltraoDev/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
   <a href="https://www.instagram.com/pedrobeltrao.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:pedrobeltraodev@gmail.com"><img src="https://img.shields.io/badge/pedrobeltraodev@gmail.com-white?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"></a>
 </p>
